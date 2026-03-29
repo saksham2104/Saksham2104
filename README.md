@@ -22,43 +22,35 @@ I enjoy building systems from scratch, understanding how things work at a low le
 
 I am particularly interested in consensus algorithms, fault-tolerant systems, verifiable credentials, and decentralized infrastructure.
 
-Current Work
+## Current Work
 Currently working on BFT-Metronome and exploring Byzantine Fault Tolerance, distributed consensus, and timing mechanisms in distributed systems.
-Exploring Verifiable Credentials, DIDs, and decentralized identity systems.
+
+Exploring Verifiable Credentials, DIDs, and decentralized identity systems
+
 Working on AI Agents and automation workflows.
+
 Interested in contributing to open-source distributed systems and blockchain projects.
-Areas of Interest
+
+## Areas of Interest
 Distributed Systems
+
 Byzantine Fault Tolerance (BFT)
+
 Blockchain Systems
+
 Cryptography
+
 Theoretical Computer Science
+
 Operating Systems
+
 Networking
+
 Open Source Software
+
 AI Agents / Autonomous Systems
-Projects & Work
-AI Agents
 
-Worked on multiple AI agent based systems including:
-
-Task automation agents
-Tool-using agents
-Web interaction agents
-Multi-step reasoning agents
-Workflow automation using LLMs
-Distributed Systems / Blockchain
-Working on BFT-Metronome
-Exploring consensus algorithms
-Verifiable Credentials & DID verification systems
-Credential verification pipelines
-Distributed identity systems
-Systems / Performance
-GPU implementations of cryptographic algorithms
-Parallel computing implementations
-CPU vs GPU performance comparisons
-Cryptography implementations (DES, ChaCha20, Salsa20)
-Open Source
+## Open Source
 
 I have a strong interest in Open Source and plan to actively contribute to:
 
@@ -68,16 +60,16 @@ Developer tools
 Infrastructure software
 Cryptography libraries
 
-Tech Stack
+## Tech Stack
 
-Languages
+## Languages
 
 C++
 Python
 TypeScript / JavaScript
 SQL
 
-Technologies
+## Technologies
 
 Git & GitHub
 Docker
